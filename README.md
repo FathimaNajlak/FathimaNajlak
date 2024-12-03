@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Mobile App Development using Flutter</p>
+- 🔭 I’m currently working on creating dynamic and user-friendly mobile applications using **Flutter**.
+- 🌱 Learning never stops! Exploring advanced concepts like **state management**, **database integrations**, and **API development**.
+- ✨ I’m also interested in UI/UX design to craft delightful user experiences.
 
 ###
 
