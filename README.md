@@ -7,7 +7,7 @@
 - ✨ I’m also interested in UI/UX design to craft delightful user experiences.
 ###
 
-<h4 align="left">Languages and Tools</h3>
+<h4 align="left">Languages and Tools</h2>
 
 ###
 
