@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I am Fathima Najla</h2>
-<br>
-<h3 align="center">🌟 Driven Flutter Developer passionately honing skills through dedicated self-learning. 🌟</h3>
 
+<h3 align="center">🌟 Driven Flutter Developer passionately honing skills through dedicated self-learning. 🌟</h3>
+<br>
 ###
 
 - 🔭 I’m currently working on creating dynamic and user-friendly mobile applications using **Flutter**.
