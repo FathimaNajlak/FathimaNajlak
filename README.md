@@ -1,4 +1,6 @@
 <h2 align="center">Hi 👋! I am Fathima Najla</h2>
+<br>
+<p align="center">🌟 Driven Flutter Developer passionately honing skills through dedicated self-learning. 🌟</p>
 
 ###
 
