@@ -4,6 +4,7 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FathimaNajlak&label=Profile%20views&color=0e75b6&style=flat" alt="FathimaNajlak" /> </p>
+
 - 🔭 I’m currently working on creating dynamic and user-friendly mobile applications using **Flutter**.
   
 - 🌱 Learning never stops! Exploring advanced concepts like **state management**, **database integrations**, and **API development**.
